@@ -1,5 +1,4 @@
 # inlay-hints.nvim
-abcd
 A minimal Neovim plugin that simplifies enabling Neovim's **official LSP inlay hints**.
 
 > [!IMPORTANT]
@@ -127,3 +126,5 @@ Inlay hints are **disabled by default** in most LSP servers. You must explicitly
 
 Apache 2.0
 
+
+### WHAT FUCKING HAPPENED? I cannot keep the git information. Is the origin author banned by github?
